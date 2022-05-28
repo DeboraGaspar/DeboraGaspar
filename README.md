@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeboraGaspar
 - 👀 I’m interested in ... progamação/ desenvolvimento
-- 🌱 I’m currently learning ... java script
+- 🌱 I’m currently learning ... java 
 - 💞️ I’m looking to collaborate on ... projetos iniciais 
 - 📫 How to reach me ...  deborasgaspar21@gmail.com
 
